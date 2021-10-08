@@ -1,4 +1,4 @@
-## Songs and Theme Music I want to learn to play on the keyboard and the reference materials for it
+## Songs and Theme Music to learn and play on the keyboard and the reference materials for it
 
 - [ ] **Minecraft - Sweden - C418**
  * <img src="https://www.youtube.com/s/desktop/e9a67dcd/img/favicon.ico" width = 16px> [C418 - Sweden - Minecraft Volume Alpha](https://www.youtube.com/watch?v=aBkTkxKDduc)
