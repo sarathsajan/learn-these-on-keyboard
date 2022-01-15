@@ -1,5 +1,10 @@
 ## Songs and Theme Music to learn and play on the keyboard and the reference materials for it
 
+- [ ] **A Cruel Angel's Thesis - Neon Genesis Evangelion**
+ * <img src="https://www.youtube.com/s/desktop/e9a67dcd/img/favicon.ico" width = 16px> [A Cruel Angel's Thesis - Neon Genesis Evangelion OP [Piano Tutorial] (Synthesia)](https://www.youtube.com/watch?v=KfjGJrtc0Lc)
+ * <img src="https://www.youtube.com/s/desktop/e9a67dcd/img/favicon.ico" width = 16px> [A Cruel Angel's Thesis - Neon Genesis Evangelion OP - EASY Piano Tutorial](https://www.youtube.com/watch?v=ttFcyGmoW8s)
+---
+
 - [ ] **Minecraft - Sweden - C418**
  * <img src="https://www.youtube.com/s/desktop/e9a67dcd/img/favicon.ico" width = 16px> [C418 - Sweden - Minecraft Volume Alpha](https://www.youtube.com/watch?v=aBkTkxKDduc)
  * <img src="https://www.youtube.com/s/desktop/e9a67dcd/img/favicon.ico" width = 16px> [Sweden - Minecraft [Piano Tutorial] (Synthesia) // Torby Brand](https://www.youtube.com/watch?v=7jFJbp8rYDA)
